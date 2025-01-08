@@ -8,14 +8,14 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Say Hello Add-in"/>
   <Description DefaultValue="An add-in to say Hello World."/>
-  <IconUrl DefaultValue="https://drive.google.com/file/d/1OLDUsOuczB-9qEVU9vYkmQq2SI5CLMRo/view?export=download"/>
-  <HighResolutionIconUrl DefaultValue="https://drive.google.com/file/d/1OLDUsOuczB-9qEVU9vYkmQq2SI5CLMRo/view?export=download"/>
+  <IconUrl DefaultValue="https://github.com/SrikVittal/MSWordJSAddin/blob/main/icon.png"/>
+  <HighResolutionIconUrl DefaultValue="https://github.com/SrikVittal/MSWordJSAddin/blob/main/icon.png"/>
   <SupportUrl DefaultValue="https://tnqtech.com/"/>
   <Hosts>
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://drive.google.com/uc?id=1sJLXAgXS_EaX7PcN6ZBMRFS-oH-98YOG"/>
+    <SourceLocation DefaultValue="https://github.com/SrikVittal/MSWordJSAddin/blob/c339b13f7934fe8c53bb1af785ced7e1a01c6699/index.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
